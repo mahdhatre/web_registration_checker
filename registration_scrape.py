@@ -53,7 +53,7 @@ except Exception as e:
     print(f"An error occurred while creating the file {log_file}: {str(e)}")
 
 # List of URLs to check
-urls = ['https://drunkenslug.com/register', 'https://www.kleverig.eu/register.php', 'https://ninjacentral.co.za/register']
+urls = ['https://drunkenslug.com/register', 'https://example2', 'https://example3']
 
 # Define the strings to look for in the response text
 var1 = "Sorry! The Bar is closed"
